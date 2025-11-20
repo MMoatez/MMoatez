@@ -1,3 +1,11 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Moatez Mathlouthi</h1>
 <h3 align="center">Computer engineering student, focused on full-stack development, modern web technologies, and DevOps practices.</h3>
 
@@ -8,6 +16,7 @@
 ---
 
 <h3 align="left">🌐 Socials</h3>
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/moatez-mathlouthi-230266351" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/>
@@ -17,6 +26,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="gmail" width="35" height="35"/>
   </a>
 </p>
+-->
+
+
+<div align="center">
+  <a href="https://linkedin.com/in/moatez-mathlouthi-230266351" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <!--<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />   -->
+</div>
+
+
 
 ---
 
